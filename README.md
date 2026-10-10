@@ -23,4 +23,5 @@ fda-pipeline/
    ```bash
    python -m pip install requests pandas pyarrow
 2. **Execute Pipeline:**
+   ```bash
    python src/app.py
