@@ -1,3 +1,4 @@
+faers_partitioned_lake/
 *.parquet
 __pycache__/
 .vscode/
