@@ -1,4 +1,4 @@
-# OpenFDA Drug Enforcement & Recall Data Pipeline
+# FDA Drug Recalls Data Pipeline
 
 ## Overview
 An automated data engineering pipeline designed to ingest, normalize, and transform public health safety data from the openFDA API into a cloud-optimized columnar data lake format (Apache Parquet). Built to bridge clinical regulatory knowledge with modern cloud-native data architecture.
