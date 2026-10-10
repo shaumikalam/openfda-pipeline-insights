@@ -10,8 +10,8 @@ An automated data engineering pipeline designed to ingest, normalize, and transf
 * **Orchestration Ready:** Configurable for automated scheduling via GitHub Actions, AWS Glue, or Azure Data Factory.
 
 ## Directory Structure
-
-fda-pipeline/
+```text
+openfda-pipeline-insights/
 ├── src/
 │   └── app.py              # Ingestion & transformation pipeline script
 ├── .gitignore              # Ignored generated runtime files
