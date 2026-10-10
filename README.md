@@ -1,4 +1,4 @@
-# OpenFDA Adverse Events (FAERS) Data Lake Pipeline
+# FDA Adverse Events (FAERS) Data Lake Pipeline
 
 ## Overview
 An enterprise-grade data engineering pipeline designed to ingest, flatten nested JSON payloads, clean, and store public health safety data from the openFDA Adverse Event Reporting System (FAERS). Built to bridge clinical regulatory expertise with modern cloud-native data lake architectures.
@@ -15,7 +15,7 @@ An enterprise-grade data engineering pipeline designed to ingest, flatten nested
 * **Orchestration Ready:** Configurable for automated execution via GitHub Actions, AWS Glue, or Azure Data Factory.
 
 ## Project Structure
-'''text
+```text
 fda-pipeline/
 ├── src/
 │   └── app.py                  # Ingestion, flattening, partitioning & storage script
